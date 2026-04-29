@@ -6,7 +6,7 @@
 
     <groupId>uk.org.esig</groupId>
     <artifactId>ds-extract-documents</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
 
     <name>ds-extract-documents</name>
     <description>This utility extracts the Base64-encoded documents from a DocuSign template (in JSON format), and converts them to PDF</description>
